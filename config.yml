@@ -42,7 +42,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Aryan Ahadinia
+          title: Abdurro'uf
           subtitle: "I used to be an undergraduate student at Computer Engineering Department, Sharif University of Technology. I'm highly interested in graphs and networks. I've worked on a few papers with an explicit focus on social networks, however, my interest is not limited to social networks and I'm going to work on the other type of networks in future."
           imageUrl: "/picture.jpeg"
           imageWidth: 160

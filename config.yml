@@ -55,7 +55,8 @@ params:
               url: /publications/
     socialIcons:
         - name: CV
-          url: https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing 
+        #  url: https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing 
+          url: CV_oct_2024.pdf
         - name: Email
           url: mailto:fabdurr1@jhu.edu
         - name: Location

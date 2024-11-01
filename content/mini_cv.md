@@ -13,6 +13,8 @@ description: "About Abdurro'uf"
 
 ---
 
+My long CV can be seen [here](https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing).
+
 ## Education
 
 + **Ph.D in Astronomy, Tohoku University**, Japan (2015-2018)

@@ -1,6 +1,6 @@
 ---
 title: "AHC: Accurate Hijri Calculator"
-date: 2023-04-14
+date: 2012-08-17
 #order: 1
 url: /ahc/
 aliases: 

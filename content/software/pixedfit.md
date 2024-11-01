@@ -53,7 +53,9 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2021ApJS..254...15A},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
 
+```bibtex
 @software{2022ascl.soft07033A,
        author = {{Abdurro'uf} and {Lin}, Yen-Ting and {Wu}, Po-Feng and {Akiyama}, Masayuki},
         title = "{piXedfit: Analyze spatially resolved SEDs of galaxies}",

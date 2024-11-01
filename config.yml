@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Mini CV
+        - name: CV
           url: /mini_cv/
           weight: 1
         - name: Publications

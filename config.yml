@@ -14,7 +14,7 @@ menu:
         - name: CV
           url: /mini_cv/
           weight: 1
-        - name: 1st/2nd Publications
+        - name: 1st/2nd-author Publications
           url: /publications/
           weight: 2
         - name: Full Publications
@@ -60,7 +60,7 @@ params:
           buttons:
             - name: CV
               url: /mini_cv/
-            - name: 1st/2nd Publications
+            - name: 1st/2nd-author Publications
               url: /publications/
             - name: Full Publications
               url: /full_publications/

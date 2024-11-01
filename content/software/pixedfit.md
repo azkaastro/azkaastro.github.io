@@ -1,6 +1,6 @@
 ---
 title: "piXedfit: Pixelized Spectral Energy Distribution (SED) Fitting"
-date: 2021
+date: 2021-05-20
 #order: 1
 url: /pixedfit/
 aliases: 

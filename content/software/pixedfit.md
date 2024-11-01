@@ -5,7 +5,7 @@ date: 2021
 url: /pixedfit/
 aliases: 
     - /pixedfit.html
-tags: ["Image processing", "pixel binning", "SED fitting", "Bayesian technique", "Galaxies"]
+tags: ["Image processing", "pixel binning", "Spatially resolved SED fitting", "Bayesian technique", "Galaxies"]
 author: "Abdurro'uf"
 #publisher: "Astrophysical Journal"
 #publisher_abbrev: "ApJ"
@@ -35,6 +35,25 @@ cover:
 ##### Citation
 
 ```bibtex
+@ARTICLE{2021ApJS..254...15A,
+       author = {{Abdurro'uf} and {Lin}, Yen-Ting and {Wu}, Po-Feng and {Akiyama}, Masayuki},
+        title = "{Introducing piXedfit: A Spectral Energy Distribution Fitting Code Designed for Resolved Sources}",
+      journal = {\apjs},
+     keywords = {Astronomical methods, Bayesian statistics, Galaxy evolution, Posterior distribution, 1043, 1900, 594, 1926, Astrophysics - Astrophysics of Galaxies},
+         year = 2021,
+        month = may,
+       volume = {254},
+       number = {1},
+          eid = {15},
+        pages = {15},
+          doi = {10.3847/1538-4365/abebe2},
+archivePrefix = {arXiv},
+       eprint = {2101.09717},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2021ApJS..254...15A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @software{2022ascl.soft07033A,
        author = {{Abdurro'uf} and {Lin}, Yen-Ting and {Wu}, Po-Feng and {Akiyama}, Masayuki},
         title = "{piXedfit: Analyze spatially resolved SEDs of galaxies}",

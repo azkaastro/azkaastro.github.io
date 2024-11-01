@@ -20,9 +20,12 @@ menu:
         - name: Full publications
           url: /full_publications/
           weight: 3
-        - name: Software
-          url: software
+        - name: Research
+          url: /Research/
           weight: 4
+        - name: Software
+          url: /software/
+          weight: 5
 
 params:
     description: "I'm an astrophysicist captivated by the cosmic journey of galaxies and how they evolve over billions of years. My research focuses on dissecting the intricate structures and star formation histories within galaxies to understand how they form, grow, and, in some cases, abruptly halt their star formation. A large part of my work revolves around piXedfit, a software tool I developed to perform spatially resolved spectral energy distribution (SED) fitting. By using data from powerful telescopes like JWST, HST, and Euclid, piXedfit enables me to create detailed maps of stellar populations in galaxies, from those nearby to those seen as they were just a billion years after the Big Bang."
@@ -61,8 +64,10 @@ params:
               url: /publications/
             - name: Full publications
               url: /full_publications/
+            - name: Research
+              url: /Research/
             - name: Software
-              url: software
+              url: /software/
     socialIcons:
         - name: CV
         #  url: https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM64ko_7d5pRf7XI1/view?usp=sharing 

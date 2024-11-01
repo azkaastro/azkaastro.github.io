@@ -43,13 +43,13 @@ params:
     profileMode:
           enabled: true
           title: Abdurro'uf
-          subtitle: "I'm an astrophysicist captivated by the cosmic journey of galaxies and how they evolve over billions of years. My research focuses on dissecting the intricate structures and star formation histories within galaxies to understand how they form, grow, and, in some cases, abruptly halt their star formation. A large part of my work revolves around piXedfit, a software tool I developed to perform spatially resolved spectral energy distribution (SED) fitting. By using data from powerful telescopes like JWST, HST, and Euclid, piXedfit enables me to create detailed maps of stellar populations in galaxies, from those nearby to those seen as they were just a billion years after the Big Bang."
+          subtitle: "I'm an astrophysicist captivated by the cosmic journey of galaxies and how they evolve over billions of years. My research focuses on dissecting the intricate structures and star formation histories within galaxies to understand how they form, grow, and, eventually cease their star formation. My research centers on mapping these processes across cosmic time using **[piXedfit](https://github.com/aabdurrouf/piXedfit)**, a tool I developed for spatially resolved spectral energy distribution (SED) fitting. Leveraging data from telescopes like **JWST**, **HST**, and **Euclid**, I explore galaxies in stunning detail, from nearby to those seen as they were in the early universe."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Abdurro'uf
           buttons:
-            - name: Mini CV
+            - name: CV
               url: /mini_cv/
             - name: Publications
               url: /publications/

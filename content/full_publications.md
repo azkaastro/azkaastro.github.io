@@ -1,5 +1,5 @@
 ---
-title: "Brief CV"
+title: "Publications"
 aliases:
     - /full_publications.html
 hidemeta: true

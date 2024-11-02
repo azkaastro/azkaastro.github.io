@@ -1,8 +1,8 @@
 ---
 title: "Research"
 aliases:
-    - /research
-    - /research.html
+    - /Research
+    - /Research.html
 hidemeta: true
 description: "Overview of my research"
 
@@ -12,7 +12,7 @@ description: "Overview of my research"
 
 ## Research Overview
 
-Key Questions in Galaxy Evolution
+Key Questions:
 
 + **When and how did the first galaxies form?**
 + **How do galaxies build their structures over cosmic time?**

@@ -37,6 +37,6 @@ Currently, I'm leading several exciting projects. Within the Euclid space telesc
 
 My future research will harness the combined power of JWST, Euclid, and other telescopes to create detailed maps of stellar properties in galaxies throughout cosmic history. I'm particularly focused on understanding how early star-forming regions contributed to galaxy evolution and how different environments influenced galaxy development. By comparing these observations with state-of-the-art cosmological simulations, we're piecing together the story of how galaxies like our Milky Way came to be, helping us understand our cosmic origins and the fundamental processes that shape our universe.
 
-
+![image1](/maps1.png)
 
 ---

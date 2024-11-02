@@ -65,7 +65,7 @@ of the WHL0137-08 and MACS0647+70 clusters, utilizing combined HST/ACS and JWST/
 
 ![fig5](/maps1.png)
 
-Looking ahead, my research will leverage the combined power of JWST, Euclid, and future telescopes, esepcially Vera C. Rubin Observatory and Nancy Grace Roman Space Telescope, to create detailed maps of stellar properties in galaxies across cosmic time. I'm particularly interested in addressing the key questions outlined above. 
+Looking ahead, my research will leverage the combined data from JWST, Euclid, and future telescopes, esepcially Vera C. Rubin Observatory and Nancy Grace Roman Space Telescope, to create detailed maps of stellar properties in galaxies across cosmic time. I'm particularly interested in addressing the key questions outlined above. 
 
 
 ### + Comparison between observational results and numerical simulations

@@ -41,7 +41,9 @@ My long CV can be seen [here](https://drive.google.com/file/d/1M-F0Tlh15RFBuy9yM
 
 ## Publications
 
-List of my publications can be seen at [publication](/publications) page.
+List of my publications can be seen at:
++ [1st & 2nd-author publications](/publications)
++ [Full publication](/full_publications)
 
 ---
 

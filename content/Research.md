@@ -48,17 +48,29 @@ The discovery and characterization of galaxies in the early universe, particular
 In [Hsiao, Abdurro'uf et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...973....8H/abstract), we observed the lensed galaxy MACS0647-JD at z = 10.17 using JWST NIRSpec prism spectroscopy as part of GO 1433 (PI: Coe). This observation led to the detection of seven emission lines in the rest-frame UV and blue optical, representing some of the earliest detections of these lines at z > 10 and providing an unprecedented glimpse into the interstellar medium (ISM) conditions of the early universe. In [Abdurro'uf et al. (2024)](https://ui.adsabs.harvard.edu/abs/2024ApJ...973...47A/abstract), we revisited MACS0647-JD with NIRSpec high-resolution spectroscopy as part of GO 4246, which I led, successfully resolving multiple emission lines, including the critical [O II] λλ3726, 3729 doublet, a sensitive tracer of electron density in the ISM. This marked the first resolved detection of the [O II] doublet at z > 10, enabling the first direct measurement of electron density in a galaxy from the reionization era and offering valuable new insights into ISM conditions in an early galaxy.
 
 
-### + Various galaxy sciences investigations with the spatially resolved properties across cosmic time
+### + Spatially resolved studies of galaxy evolution across cosmic time
 
 ![fig4](/maps2.png)
 
+The present-day galaxy population exhibits remarkable structural diversity, shaped by a range of internal and external processes. However, the relative contributions of mechanisms such as secular evolution, mergers, low-angular-momentum gas accretion, violent disk instabilities, and AGN feedback remain uncertain. Recent advancements in the sensitivity and spatial resolution of astronomical instruments now make it possible to study galaxies in unprecedented detail across a wide range of redshifts. With the launch of JWST, we can analyze the rest-frame optical morphologies of galaxies up to z~9 with a resolution of ~1 kpc, providing an exceptional opportunity to investigate structural evolution over much of cosmic history. Despite these advancements, most studies in recent decades have concentrated on integrated (i.e., global) galaxy properties, yielding key insights into galaxy evolution on a large scale but often overlooking spatially resolved properties within galaxies, which are likely more fundamental and drive observed global behaviors. Although integral field spectroscopy (IFS) surveys are highly effective for probing a galaxy’s internal properties by capturing spectra across spatial regions within the galaxy, they remain prohibitively expensive for high-redshift studies.
+
+Motivated by these, I developed [**piXedfit**,](https://github.com/aabdurrouf/piXedfit) a tool specifically designed for spatially resolved spectral energy distribution (SED) fitting of galaxies. By applying this code to the wealth of high-quality imaging data now available from JWST, HST, and Euclid, and forthcoming from observatories like Vera C. Rubin
+Observatory’s LSST and the Nancy Grace Roman Space Telescope, I plan to conduct a systematic study of the spatially resolved stellar population properties of a large number of galaxies at broad redshift range (0 < z < 8) with primary objectives of:
++ Tracing the assembly of galaxy structures over cosmic time, focusing on the diversity of stellar population radial profiles as functions of global galaxy properties and redshifts.
++ Investigating how star formation quenching occurs within galaxies with emphasis on examining the spatially resolved signatures of quenching.
++ Exploring the demographics of star-forming clumps at high redshifts and how their star formation activities relate to the overall burstiness of the host galaxies.
+
+My research has been focusing on the structural evolution of galaxies. As a pilot project, I applied piXedfit to multiple samples in both local universe and high redshifts, utilizing multi-wavelength imaging data ranging from the far-ultraviolet (FUV) to the far-infrared (FIR), obtained from various ground- and space-based telescopes. I have been applying piXedfit to various galaxy samples. In [Abdurro’uf et al. (2022a)](https://ui.adsabs.harvard.edu/abs/2022ApJ...926...81A/abstract) and [Abdurro’uf et al. (2022c)](https://ui.adsabs.harvard.edu/abs/2022ApJ...935...98A/abstract), I investigated the structural properties of stars, dust, and gas in ten nearby galaxies to explore the interplay between these baryonic components. I used over 20 bands of imaging data, ranging from FUV to FIR, collected from GALEX, SDSS, 2MASS, WISE, Spitzer, and Herschel. The atomic and molecular gas maps were taken from CO and 21-cm HI data from the HERACLES and THINGS surveys. Some key findings include (1) the spatially resolved IRX–β relation; (2) evidence that old stellar populations contribute to dust heating; and (3) local kpc-scale scaling relations among stellar population, dust, and gas properties. In [Abdurro’uf et al. (2023)](https://ui.adsabs.harvard.edu/abs/2023ApJ...945..117A/abstract), I extended spatially resolved studies to higher redshifts by analyzing 444 galaxies at 0.3 < z < 6 in the sightlines
+of the WHL0137-08 and MACS0647+70 clusters, utilizing combined HST/ACS and JWST/NIRCam data. This study provided supporting evidence for the inside-out growth and quenching scenarios.
 
 ![fig5](/maps1.png)
 
+Looking ahead, my research will leverage the combined power of JWST, Euclid, and future telescopes, esepcially Vera C. Rubin Observatory and Nancy Grace Roman Space Telescope, to create detailed maps of stellar properties in galaxies across cosmic time. I'm particularly interested in addressing the key questions outlined above. 
 
 
 ### + Comparison between observational results and numerical simulations
 
+Through this research, we're piecing together the story of how galaxies like our Milky Way came to be, helping us understand our cosmic origins and the fundamental processes that shape our universe.
 
 
 ---

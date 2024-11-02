@@ -10,7 +10,7 @@ description: "Publications of Abdurro'uf"
 Full list of my publications can be seen at [ADS link](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc)
 
 
-**[37]** _On the dichotomy of elliptical galaxies_, Rog´erio Monteiro‑Oliveira, Yen‑Ting Lin, Wei‑Huai Chen, Chen‑Yu Chuang, **Abdurro’uf**, Po‑Feng Wu, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240916349M/abstract))
+**[37]** _No Evidence of a Dichotomy in the Elliptical Galaxy Population_, Rog´erio Monteiro‑Oliveira, Yen‑Ting Lin, Wei‑Huai Chen, Chen‑Yu Chuang, **Abdurro’uf**, Po‑Feng Wu, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240916349M/abstract))
 
 **[36]** _First direct carbon abundance measured at 𝑧 > 10 in the lensed galaxy MACS0647−JD_, Tiger Yu‑Yang Hsiao, Michael W. Topping, Dan Coe, John Chisholm, Danielle A. Berg, **Abdurro’uf**, Javier Álvarez‑Márquez, Roberto Maiolino, Pratika Dayal, Lukas J. Furtak, 2024, submitted to ApJ. ([ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240904625H/abstract))
 

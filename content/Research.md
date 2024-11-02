@@ -28,11 +28,7 @@ To tackle these challenges, I developed piXedfit, a public software package that
 Currently, I'm leading several exciting projects. Within the Euclid space telescope collaboration, I'm developing a pipeline for analyzing the internal structures of nearby galaxies. This work combines Euclid data with ground-based telescopes like the upcoming Rubin Observatory to study over 100,000 galaxies in unprecedented detail. I'm also analyzing JWST observations of distant galaxies across multiple deep fields, including COSMOS and GOODS, to understand how galaxies evolved in the early universe.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%">
-<iframe src="https://www.youtube.com/embed/jgEYn-ldr30" 
-        title="Web Load Testing with West Wind WebSurge 2" frameborder="0" allowfullscreen
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        style="position: absolute; width: 100%; height: 100%;">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RH7S_ajUniM?si=fh9-pX_C4Wo4Amly" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 My future research will harness the combined power of JWST, Euclid, and other telescopes to create detailed maps of stellar properties in galaxies throughout cosmic history. I'm particularly focused on understanding how early star-forming regions contributed to galaxy evolution and how different environments influenced galaxy development. By comparing these observations with state-of-the-art cosmological simulations, we're piecing together the story of how galaxies like our Milky Way came to be, helping us understand our cosmic origins and the fundamental processes that shape our universe.

@@ -10,7 +10,7 @@ description: "Overview of my research"
 
 ---
 
-![image1](/static/univev1.png)
+![image1](/univev1.png)
 
 Key Questions:
 

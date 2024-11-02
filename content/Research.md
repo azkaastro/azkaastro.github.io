@@ -39,7 +39,8 @@ My future research will harness the combined power of JWST, Euclid, and other te
 
 ![fig3](/macs0647jd.png)
 
+![fig4](/maps2.png)
 
-![fig4](/maps1.png)
+![fig5](/maps1.png)
 
 ---
